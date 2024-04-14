@@ -1,9 +1,3 @@
----
-id: 'supported-tasks'
-title: 'Supported Tasks'
-priority: 50
-description: "Current overview of Phitag's supported annotation tasks."
----
  
 # Supported Tasks
 

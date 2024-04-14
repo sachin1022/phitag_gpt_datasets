@@ -1,9 +1,4 @@
----
-id: 'explained-how-to-use-gpt-annotator'
-title: 'Explained: How to use Gpt compuatational annotator'
-priority: 20
-description: 'Here you find out all the necessary details how to use ChatGpt as an annotator.'
----
+
 
 # Utilizing GPT as a Computational Annotator
 

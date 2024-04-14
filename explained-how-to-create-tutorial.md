@@ -1,9 +1,3 @@
----
-id: 'explained-how-to-create-tutorial'
-title: 'Explained: How to create tutorial phase'
-priority: 20
-description: 'Here you find out all the necessary details how to create tutorial phase.'
----
 
 ## Data Preparation
  

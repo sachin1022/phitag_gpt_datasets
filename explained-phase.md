@@ -1,10 +1,4 @@
----
-id: 'explained-phase'
-title: 'Explained: Phase'
-priority: 0
-description: 'Explanation of the Phase page.'
----
- 
+
 # Explained: Phase
 
 This guide explains the phase page. The phase page is the main page of a phase. It is divided into five tabs: "Overview", "Instance", "Judgements", "History" and "Tasks".
