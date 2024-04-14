@@ -49,7 +49,7 @@ Here's a visual representation of how to utilize GPT as an annotator. You have t
 
 ## Test model with tutorail Phase
 To evaluate the model's accuracy using the tutorial phase, you need to first create a tutorial phase. Follow the guidelines provided in
-    [Explained: Create Tutorial Phase](/datasets/guide/explained-how-to-create-tutorial)
+   [Explained: Create Tutorial Phase](/datasets/guide/explained-how-to-create-tutorial)
 
 
 | ![](datasets/guide/test-with-tutorial.gif)  |
