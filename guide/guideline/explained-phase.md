@@ -25,7 +25,7 @@ The instance tab shows all instances of the phase. An instance describes annotat
 The judgements tab shows all judgements of the phase. Judgements are the results of the annotation process. They are created by the annotators and can be downloaded through this tab. If downloaded, the judgements are in the same format as defined in [Annotation Standardization](https://github.com/ChangeIsKey/annotation_standardization). If you are an admin of the project, you can upload and download judgements through this tab and can see all judgements of the phase.
 If you are an annotator, you can see all judgements you have created and also edit them.
 
-| ![](datasets/guide/download-judgement.gif) | ![](datasets/guide/edit-judgement.gif) |
+| ![](guide/download-judgement.gif) | ![](datasets/guide/edit-judgement.gif) |
 | :------------------------------------: | :--------------------------------: |
 |           Download Judgement           |           Edit Judgement           |
 
