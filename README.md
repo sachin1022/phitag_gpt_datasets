@@ -44,7 +44,7 @@ Here's a visual representation of how to utilize GPT as an annotator. You have t
 
 | ![](guide/annotate-phase-using-gpt.gif) |
 | :---------------------------------:    |
-|    Annotate Phase using Gpt      |
+|    Annotate Phase using GPT     |
 
 
 ## Test model with tutorail Phase
