@@ -12,7 +12,7 @@ Initiating GPT as an annotator begins with data preparation.
 
 ### Usage File
 
-Please provide uses.tsv files in the general format outlined in the [Supported Tasks](/supported-tasks) guide.
+Please provide uses.tsv files in the general format outlined in the [Supported Tasks](/guide/guideline/supported-tasks.md) guide.
 
 ### Instance File
 The instance file is a tab-separated file with the following columns:
@@ -26,11 +26,11 @@ The instance file is a tab-separated file with the following columns:
 **non_label**: A non-label (-).
 
 ## Step 2: Project Creation
-Follow this guideline [Explained: Project](/explained-project) to create a project in PhiTag.
+Follow this guideline [Explained: Project](/guide/guideline/explained-project.md) to create a project in PhiTag.
 
 
 ## Step 3: Phase Create
-Follow this guideline [Explained: Phase](/explained-phase) to create a project in PhiTag.
+Follow this guideline [Explained: Phase](/guide/guideline/explained-phase.md) to create a project in PhiTag.
 
 ## Step 4: Add ChatGpt as a computaional annotator to your project
 

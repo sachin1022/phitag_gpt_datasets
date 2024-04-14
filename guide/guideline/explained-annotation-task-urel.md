@@ -13,7 +13,7 @@ The usage relatedness annotation tasks asks annotators to rate the degree of sem
 
 ### Usage File
 
-Please provide uses.tsv files in the general format outlined in the [Supported Tasks](/supported-tasks) guide.
+Please provide uses.tsv files in the general format outlined in the [Supported Tasks](/guide/guideline/supported-tasks.md) guide.
 
 ### Instance File
 The instance file is a tab-separated file with the following columns:

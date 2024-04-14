@@ -51,7 +51,7 @@ In the following we will describe the currently supported annotation tasks. Note
 
 ## Use Pair
 
-The use pair annotation type is used to annotate the relation between two usages. It is used to annotate the relation between two usages. We currently support the annotation task "Usage Relatedness" which asks annotators to rate the degree of semantic relatedness between two uses of a lemma. For further information please refer to the ['Explained: Annotation Task - Usage Relatedness (UREL)' guide](/explained-annotation-task-urel).
+The use pair annotation type is used to annotate the relation between two usages. It is used to annotate the relation between two usages. We currently support the annotation task "Usage Relatedness" which asks annotators to rate the degree of semantic relatedness between two uses of a lemma. For further information please refer to the ['Explained: Annotation Task - Usage Relatedness (UREL)' guide](/guide/guideline/explained-annotation-task-urel.md).
 
 ## Use Single
 

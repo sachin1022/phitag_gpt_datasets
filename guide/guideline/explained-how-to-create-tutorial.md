@@ -4,7 +4,7 @@
 The most important step of creating a tutorial phase is data preparation. Below, you'll find detailed instructions for preparing the data.
 ### Usage File
 
-Please provide uses.tsv files in the general format outlined in the [Supported Tasks](/supported-tasks) guide.
+Please provide uses.tsv files in the general format outlined in the [Supported Tasks](/guide/guideline/supported-tasks.md) guide.
 
 ### Instance File
 The instance file is a tab-separated file with the following columns:
@@ -29,7 +29,7 @@ The judgement file is a tab-separated file with the following columns:
 **anotator**: Specifies the annotator's name, e.g. (gold annotator).
 # Create Project
 The first steps of creating tutorial phase starts with the project. Please create the project first. Here you find out the guide for how to 
-[Create Project](/explained-project).
+[Create Project](/guide/guideline/explained-project.md).
 
 # Create Phase For Tutoral
 
