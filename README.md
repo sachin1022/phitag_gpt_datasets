@@ -29,7 +29,7 @@ Follow this guideline [Explained: Project](/guide/guideline/explained-project) t
 
 
 ## Step 3: Phase Create
-Follow this guideline [Explained: Phase](/guide/explained-phase) to create a project in PhiTag.
+Follow this guideline [Explained: Phase](/guide/guideline/explained-phase.md) to create a project in PhiTag.
 
 ## Step 4: Add ChatGPT as a computaional annotator to your project
 
