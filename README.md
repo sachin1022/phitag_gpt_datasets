@@ -42,7 +42,7 @@ Follow this guideline [Explained: Phase](/explained-phase) to create a project i
 ## Step 5: Annotate Phase
 Here's a visual representation of how to utilize GPT as an annotator. You have the option to either use your own custom prompt or leverage the automatic prompting feature. The automatic prompting feature utilizes guideline and guideline + tutorial as prompts automatically.
 
-| ![](datasets/guide/annotate-phase-using-gpt.gif) |
+| ![](guide/annotate-phase-using-gpt.gif) |
 | :---------------------------------:    |
 |    Annotate Phase using Gpt      |
 
@@ -52,7 +52,7 @@ To evaluate the model's accuracy using the tutorial phase, you need to first cre
    [Explained: Create Tutorial Phase](/datasets/guide/explained-how-to-create-tutorial)
 
 
-| ![](datasets/guide/test-with-tutorial.gif)  |
+| ![](guide/test-with-tutorial.gif)  |
 | :-------------------------------------------: |
 |    Test model with tutorial               |
 
