@@ -15,7 +15,7 @@ Currently, the overview tab of a phase is empty.
 
 The instance tab shows all instances of the phase. An instance describes annotation instances to be judged by the annotators. Depending on the annotation type, instances to be uploaded have different formats. We currently follow the standard formats found in [Annotation Standardization](https://github.com/ChangeIsKey/annotation_standardization). If you are an admin of the project, you can upload and download instances through this tab.
 
-| ![](datasets/guide/add-instance.gif) | ![](datasets/guide/download-instance.gif) | ![](datasets/guide/com-instances.gif) |
+| ![](guide/add-instance.gif) | ![](guide/download-instance.gif) | ![](guide/com-instances.gif) |
 | :------------------------------: | :-----------------------------------: | :-------------------------------: |
 |           Add Instance           |           Download Instance           | Computational Generated Instances |
 
@@ -25,7 +25,7 @@ The instance tab shows all instances of the phase. An instance describes annotat
 The judgements tab shows all judgements of the phase. Judgements are the results of the annotation process. They are created by the annotators and can be downloaded through this tab. If downloaded, the judgements are in the same format as defined in [Annotation Standardization](https://github.com/ChangeIsKey/annotation_standardization). If you are an admin of the project, you can upload and download judgements through this tab and can see all judgements of the phase.
 If you are an annotator, you can see all judgements you have created and also edit them.
 
-| ![](guide/download-judgement.gif) | ![](datasets/guide/edit-judgement.gif) |
+| ![](guide/download-judgement.gif) | ![](guide/edit-judgement.gif) |
 | :------------------------------------: | :--------------------------------: |
 |           Download Judgement           |           Edit Judgement           |
 
