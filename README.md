@@ -25,7 +25,7 @@ The instance file is a tab-separated file with the following columns:
 **non_label**: A non-label (-).
 
 ## Step 2: Project Creation
-Follow this guideline [Explained: Project](/guide/guideline/explained-project) to create a project in PhiTag.
+Follow this guideline [Explained: Project](/guide/guideline/explained-project.md) to create a project in PhiTag.
 
 
 ## Step 3: Phase Create
@@ -48,7 +48,7 @@ Here's a visual representation of how to utilize GPT as an annotator. You have t
 
 ## Test model with tutorail Phase
 To evaluate the model's accuracy using the tutorial phase, you need to first create a tutorial phase. Follow the guidelines provided in
-    [Explained: Create Tutorial Phase](/guide/explained-how-to-create-tutorial)
+    [Explained: Create Tutorial Phase](/guide/explained-how-to-create-tutorial.md)
 
 
 | ![](/guide/test-with-tutorial.gif)  |
