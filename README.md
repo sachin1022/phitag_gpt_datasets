@@ -11,7 +11,7 @@ Initiating GPT as an annotator begins with data preparation.
 
 ### Usage File
 
-Please provide uses.tsv files in the general format outlined in the [Supported Tasks](/guide/guideline/supported-tasks) guide.
+Please provide uses.tsv files in the general format outlined in the [Supported Tasks](guide/guideline/supported-tasks) guide.
 
 ### Instance File
 The instance file is a tab-separated file with the following columns:
