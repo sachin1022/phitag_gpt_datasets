@@ -41,7 +41,7 @@ Follow this guideline [Explained: Phase](/guide/explained-phase) to create a pro
 ## Step 5: Annotate Phase
 Here's a visual representation of how to utilize GPT as an annotator. You have the option to either use your own custom prompt or leverage the automatic prompting feature. The automatic prompting feature utilizes guideline and guideline + tutorial as prompts automatically.
 
-| ![](/gif/guide/annotate-phase-using-gpt.gif) |
+| ![](/guide/annotate-phase-using-gpt.gif) |
 | :---------------------------------:    |
 |    Annotate Phase using GPT      |
 
@@ -51,7 +51,7 @@ To evaluate the model's accuracy using the tutorial phase, you need to first cre
     [Explained: Create Tutorial Phase](/guide/explained-how-to-create-tutorial)
 
 
-| ![](/gif/guide/test-with-tutorial.gif)  |
+| ![](/guide/test-with-tutorial.gif)  |
 | :-------------------------------------------: |
 |    Test model with tutorial               |
 
