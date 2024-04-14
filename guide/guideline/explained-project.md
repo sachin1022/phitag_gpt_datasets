@@ -12,7 +12,7 @@ The overview tab shows the most important information about the project. It cont
 - The project description is a short description of the project, the language, if the project is public or private and if the project is active or inactive. If the project is inactive, it is not possible to join the project as an annotator, add new data or annotate data.
 - The phases of a project are the different stages of the project. A project can have multiple phases. See the [Explained: Phase](/datasets/guide/explained-phase) guide for more information.
 
-| ![](/datasets/guide/add-phase.gif) | ![](/gif/guide/add-guidelines.gif) | 
+| ![](guide/add-phase.gif) | ![](/gif/guide/add-guidelines.gif) | 
 | :---------------------------: | :--------------------------------: |
 |           Add Phase           |           Add Guidelines           |
 
