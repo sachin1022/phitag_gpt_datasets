@@ -1,0 +1,49 @@
+file id "file-giFArgI2DqK4vxcN78ydW4sI",
+
+
+ftJOB: ftjob-6Mp21BTMVeEARxYK2jr46u7T
+
+
+New
+
+
+file-YdsPxxQeSWu8gw1TwmcP6WMA
+ftjob-OiVUOATdp7wmQ37kklo5ygGP
+
+
+Filter
+
+file-lFrA3PjWcLQdcAkym65tJfP3
+ftjob-3WAAbtiCdAz0AugVDd6XoNhU
+
+
+
+Filter 1
+file-ykYbHO5Vnnid3IKJE4ZqM2w1
+
+Filter 2
+
+file-4zAP7EW0CS0X2BttjojLXdbL
+ftjob-gpHEgrOpNBzHN4V1LWH0g51W
+
+
+Filter 3
+
+file-xRG5ReEy7XMNkPAj7YnBUsku
+ftjob-oknGjvSbSqkVtbUYt7qBctjG
+
+Small
+
+file-OlYe5xTshXOlNerzgJLC26kv
+ft:gpt-3.5-turbo-0125:university-of-gothenburg::8ymm9E61
+
+
+
+///
+ft:gpt-3.5-turbo-0125:university-of-gothenburg::8zB9HchT
+
+///
+ft:gpt-3.5-turbo-0125:university-of-gothenburg::8zB9HchT
+
+//
+ft:gpt-3.5-turbo-0125:university-of-gothenburg::8zlTdbZb
