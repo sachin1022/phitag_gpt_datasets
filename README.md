@@ -25,7 +25,7 @@ The instance file is a tab-separated file with the following columns:
 **non_label**: A non-label (-).
 
 ## Step 2: Project Creation
-Follow this guideline [Explained: Project](/guide/explained-project) to create a project in PhiTag.
+Follow this guideline [Explained: Project](/guide/guideline/explained-project) to create a project in PhiTag.
 
 
 ## Step 3: Phase Create
