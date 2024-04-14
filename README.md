@@ -34,7 +34,7 @@ Follow this guideline [Explained: Phase](/explained-phase) to create a project i
 
 ## Step 4: Add ChatGpt as a computaional annotator to your project
 
-| ![](datasets/guide/add-comp-annotator.gif) |
+| ![](guide/add-comp-annotator.gif) |
 | :---------------------------------: |
 |           Add Gpt as a computational annotator          |
 
