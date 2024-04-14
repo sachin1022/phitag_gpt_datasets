@@ -33,7 +33,7 @@ Follow this guideline [Explained: Phase](/guide/explained-phase) to create a pro
 
 ## Step 4: Add ChatGPT as a computaional annotator to your project
 
-| ![](/gif/guide/add-comp-annotator.gif) |
+| ![](/guide/add-comp-annotator.gif) |
 | :---------------------------------: |
 |           Add GPT as a computational annotator          |
 
