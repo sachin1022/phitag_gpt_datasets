@@ -8,7 +8,7 @@ description: 'Here you find out all the necessary details how to use ChatGpt as 
 # Utilizing GPT as a Computational Annotator
 
 This guide explain the process of employing GPT as a computational annotator within a PhiTag.
-
+ 
 
 ## Step 1
 Initiating GPT as an annotator begins with data preparation.

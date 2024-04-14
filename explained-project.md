@@ -8,7 +8,7 @@ description: 'Explanation of the Project page.'
 # Explained: Projects
 
 This guide explains the project page. The project page is the main page of a project. It is divided into five tabs: "Overview", "Data", "Annotator", "Tasks" and "Statistic".
-
+ 
 ## Tab: Overview
 
 The overview tab shows the most important information about the project. It contains the guidelines of the project, a project description and the phases.

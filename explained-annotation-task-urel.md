@@ -4,7 +4,7 @@ title: 'Explained: Annotation Task - Usage Relatedness (UREL)'
 priority: 20
 description: 'Explanation of the Usage Relatedness (UREL) Annotation Task.'
 ---
-
+  
 # Usage Relatedness (UREL) Annotation Task
 
 The usage relatedness annotation tasks asks annotators to rate the degree of semantic relatedness between two uses of a word.

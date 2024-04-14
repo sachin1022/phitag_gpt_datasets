@@ -10,7 +10,7 @@ description: "Current overview of Phitag's supported annotation tasks."
 PhiTag is an extensible, flexible and modular annotation tool for text annotation. It supports a variety of annotation tasks, which can be combined to create complex annotation projects. This page provides an overview of the currently supported tasks and their corresponding data formats.
 
 ## Data Formats
-
+ 
 As PhiTag is an open source project, we want to make sure that the data formats are as open and accessible as possible. Therefore, we decided to use the standardization approach of the [Annotation Standardization repository](https://github.com/ChangeIsKey/annotation_standardization). This allows us to use a standardized data format, which is not only open and accessible, but also allows us to easily integrate new annotation tasks and data formats. The following sections will describe the currently supported data formats.
 
 ## Usage (text snippets)
