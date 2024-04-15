@@ -1,7 +1,6 @@
 ## Guideline only + Tutorials
-Role: system, message: "You are a highly trained text data annotation tool capable of providing subjective responses."
-
-Role: user, message: "# Guidelines for UREL Annotation
+You are a highly trained text data annotation tool capable of providing subjective responses.
+"# Guidelines for UREL Annotation
 ## Introduction
 Your task is to rate the degree of semantic relatedness between two uses of a word. For instance, presented with a sentence pair as in the below table, you are asked to rate the semantic relatedness between the two uses of **grasp**.
 
@@ -88,7 +87,7 @@ Finally, the non_label symbol '-' is used when the annotator is unable to make a
 
 [4-Identical, 3-Closely Related, 2-Distantly Related, 1-Unrelated]
 
-Here are the few     examples:
+Here are the few examples you refer:
 
 Sentence 1: I would roam through the cities, through village and dell. But I never would return To my cold prison cell; what’s life without liberty? What's life without liberty, I ofttimes have said.
 Sentence 2: There sorrows were but for the misfortunes of others. They went their way rejoicing , and with them passed the solitary ray of sunshine that streamed athwart the dark horrors of the emigrant ship, like the wandering pencil of light that sometimes visits the condemned cell of a prison.
@@ -161,6 +160,6 @@ Role: user, message: "Sentence 1: [PLACEHOLDER SENTENCE 1]"
 
 Role: user, message: "Sentence 2:  [PLACEHOLDER SENTENCE 2]"
 
-Role: user, messasga : "Target word: [PLACEHOLDER SENTENCE 2]"
+Role: user, message : "Target word: [PLACEHOLDER TARGETWORD]"
 
-Role: user, messasga : "Please provide a judgment as a single integer. For example, if your judgment is Identical, then provide 4. If your judgment is Unrelated, provide 1"
+Role: user, message : "Please provide a judgment as a single integer. For example, if your judgment is Identical, then provide 4. If your judgment is Unrelated, provide 1"
