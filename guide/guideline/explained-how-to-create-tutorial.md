@@ -33,8 +33,8 @@ The first steps of creating tutorial phase starts with the project. Please creat
 
 # Create Phase For Tutoral
 
-![Create Phase for Tutorial](datasets/guide/create-tutorial-phase.gif)
+![Create Phase for Tutorial](/guide/create-tutorial-phase.gif)
 
 # Upload Instance And Judgment File To Tutorial Phase
 
-![Create Phase for Tutorial](datasets/guide/uploaddata.gif)
+![Create Phase for Tutorial](/guide/uploaddata.gif)
