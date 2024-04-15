@@ -46,7 +46,7 @@ Here's a visual representation of how to utilize GPT as an annotator. You have t
 |    Annotate Phase using GPT      |
 
 
-## Test model with tutorail Phase
+## Test model with tutorial Phase
 To evaluate the model's accuracy using the tutorial phase, you need to first create a tutorial phase. Follow the guidelines provided in
     [Explained: Create Tutorial Phase](/guide/guideline/explained-how-to-create-tutorial.md)
 
