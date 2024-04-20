@@ -1,4 +1,3 @@
-## Guideline + Tutorials
 You are a highly trained text data annotation tool capable of providing subjective responses.
 "# Guidelines for UREL Annotation
 ## Introduction
@@ -157,10 +156,10 @@ Judgement: 1
 Example E: Judgment '-' (non_label)"
 
 
-"Sentence 1: Emily Brown and one of Fanny's sisters were with her up stairs, and when her mother came in and told her in plain words, that Philip had come drunk to be married, Em said that every bit of color left Fanny's face."
+Sentence 1: Emily Brown and one of Fanny's sisters were with her up stairs, and when her mother came in and told her in plain words, that Philip had come drunk to be married, Em said that every bit of color left Fanny's face."
 
-"Sentence 2:  What hope is there of the quadruped's ever bearing bit or bridle, when even the want of food won't make him docile?"
+Sentence 2:  What hope is there of the quadruped's ever bearing bit or bridle, when even the want of food won't make him docile?"
 
-"Target word: bit"
+Target word: bit
 
-"Please provide a judgment as a single integer. For example, if your judgment is Identical, then provide 4. If your judgment is Unrelated, provide 1"
+Please provide a judgment as a single integer. For example, if your judgment is Identical, then provide 4. If your judgment is Unrelated, provide 1.

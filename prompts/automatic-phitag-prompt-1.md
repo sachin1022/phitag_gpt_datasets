@@ -90,10 +90,10 @@ Finally, the non_label symbol '-' is used when the annotator is unable to make a
 
 Example E: Judgment '-' (non_label)"
 
-"Sentence 1: The dawn steals up the eastern sky, Gray vapors hang o'er sea and land, On the rank grass dews lightly lie That cool by night the heated sand, And from the tall palmetto's top, On the low roof, fall drop by drop."
+Sentence 1: The dawn steals up the eastern sky, Gray vapors hang o'er sea and land, On the rank grass dews lightly lie That cool by night the heated sand, And from the tall palmetto's top, On the low roof, fall drop by drop.
 
-"Sentence 2:  He lands among us, falls into some circle, good or bad, as the case may be, hears them speak in strong terms of their party adversaries, is able to make none of that secret"
+Sentence 2:  He lands among us, falls into some circle, good or bad, as the case may be, hears them speak in strong terms of their party adversaries, is able to make none of that secret.
 
- "Target word: land"
+ Target word: land
 
-"Please provide a judgment as a single integer. For example, if your judgment is Identical, then provide 4. If your judgment is Unrelated, provide 1"
+Please provide a judgment as a single integer. For example, if your judgment is Identical, then provide 4. If your judgment is Unrelated, provide 1.
