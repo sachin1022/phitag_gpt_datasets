@@ -2,7 +2,8 @@
 # Using GPT as a computational annotator
 
 This guide explain the process of employing GPT as a computational annotator within a PhiTag.
-##Note
+
+## Note
 This project makes use of the DWUG EN dataset. Here, you only get the dataId. For getting the data, please refer to the following information:
 DWUG EN: A dynamic word usage graph for English. To obtain the data, use the dataId provided and follow the instructions at [DWUG EN](https://zenodo.org/record/5544443).
 
